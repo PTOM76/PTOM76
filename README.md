@@ -1,3 +1,3 @@
 # プロフィール
--JavaやC#、PHPをよく利用してます。
--Minecraftをよくしています。
+- JavaやC#、PHPをよく利用してます。
+- Minecraftをよくしています。
