@@ -1,6 +1,8 @@
 # プロフィール
 ## 自己紹介
 Minecraftを主にしています。
+<br />
+多分僕はPHPのみできます。
 <img src="https://img.shields.io/badge/MCID-Pitan%EF%BC%BFMAD-55dd55.svg?logo=minecraft&style=plastic">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
