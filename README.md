@@ -1,6 +1,6 @@
 # プロフィール
 ## 自己紹介
-C++苦手マンです！
+C++苦手マンだ！<br />
 Minecraftを主にしています。<img src="https://img.shields.io/badge/MCID-Pitan%EF%BC%BFMAD-55dd55.svg?logo=minecraft&style=plastic">
 
 <br />
