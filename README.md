@@ -1,4 +1,5 @@
 # プロフィール
+Pitan's workspace server(Discord): https://discord.gg/KrYFxKawQc
 ## 自己紹介
 自分のカスコードを晒しています
 
