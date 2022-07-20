@@ -11,6 +11,8 @@ Pitan's workspace server(Discord): https://discord.gg/KrYFxKawQc
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&langs_count=11" /></a>
 
+<br />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitan76"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitan76&langs_count=11" /></a>
 
 
 <br clear="left" />
