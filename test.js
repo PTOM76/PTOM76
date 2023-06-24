@@ -6,4 +6,4 @@ function getNmae() {
   return "Akaza Minato";
 }
 
-console.log(name);
+console.log(getName());
