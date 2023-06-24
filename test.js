@@ -7,3 +7,4 @@ function getNmae() {
 }
 
 console.log(getName());
+console.log('Done!');
