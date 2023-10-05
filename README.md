@@ -1,6 +1,17 @@
 # プロフィール
 Pitan's server(Discord): https://discord.gg/KrYFxKawQc
-Website: https://www.pitan76.net/
+
+# ウェブサイト
+個人サイト: https://pitan76.net/
+<br />
+Pitan's Note: https://pkom.pitan76.net/
+<br />
+Pitan's Blog: https://blog.pitan76.net/
+<br />
+Pitan's PukiWiki: https://pukiwiki.pitan76.net/
+<br />
+Pitan Mod Wiki: https://wikichree.com/pitan76/
+<br />
 
 ## 自己紹介
 自分の酷いコードを晒しています<br />
