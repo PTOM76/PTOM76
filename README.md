@@ -1,5 +1,5 @@
 # Pitan
-<img align="right" src="https://github-star-counter.glitch.me/?user=PTOM76&w=360" />
+<img align="right" src="https://github-pitan76-star-counter.glitch.me/?user=PTOM76&w=400" />
 
 My site: https://pitan76.net/
 <br />
