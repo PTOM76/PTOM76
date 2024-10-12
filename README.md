@@ -1,19 +1,13 @@
-# Profile
-## Total Stars
-![GitHub Profile Stars](https://github-star-counter.glitch.me/?user=PTOM76&w=400)
+# Pitan
+<img align="right" src="https://github-star-counter.glitch.me/?user=PTOM76&w=400" />
 
-Pitan's server(Discord): https://discord.gg/KrYFxKawQc
-
-## Website
 My site: https://pitan76.net/
-<br />
-Pitan's Note: https://pkom.pitan76.net/
-<br />
-Pitan's Blog: https://blog.pitan76.net/
 <br />
 Pitan's PukiWiki: https://pukiwiki.pitan76.net/
 <br />
 Pitan Mod Wiki: https://wikichree.com/pitan76/
+<br />
+Discord: https://discord.gg/KrYFxKawQc
 <br />
 
 自分の酷いコードを晒しています<br />
