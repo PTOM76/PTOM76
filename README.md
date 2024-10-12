@@ -15,6 +15,10 @@ Discord: https://discord.gg/KrYFxKawQc
 <br />
 <s>多分僕はPHPのみできます。</s>
 <br />
+<br />
+<br />
+<br />
+<br />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="268" src="https://github-profile-trophy.vercel.app/?username=PTOM76&row=4&column=2" />
 </a>
