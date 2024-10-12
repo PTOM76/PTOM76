@@ -1,6 +1,6 @@
 # Profile
 ## Total Stars
-![GitHub Profile Stars](https://github-star-counter.glitch.me/?user=Pitan76&w=400)
+![GitHub Profile Stars](https://github-star-counter.glitch.me/?user=PTOM76&w=400)
 
 Pitan's server(Discord): https://discord.gg/KrYFxKawQc
 
