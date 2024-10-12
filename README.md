@@ -20,8 +20,6 @@ Discord: https://discord.gg/KrYFxKawQc
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&langs_count=11" /></a>
 
-
-
 <br clear="left" />
 
 <comment c="<br /><br />
