@@ -39,3 +39,9 @@ Discord: https://discord.gg/KrYFxKawQc
 表現:自由<br />
 自作発言:不可<br />
 " />
+
+## GPG Public Key
+
+[Download public key](https://pitan76.net/pgp/public.asc)
+
+Fingerprint: `0B83 204A 8E18 106D 51BE  9E05 FD1F 668C 83C3 B9F5`
