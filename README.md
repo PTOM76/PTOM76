@@ -4,6 +4,7 @@
 
 My site: https://pitan76.net/
 <br />
+Tumblr: https://pitan76.tumblr.com/
 Pitan's PukiWiki: https://pukiwiki.pitan76.net/
 <br />
 Pitan Mod Wiki: https://wikichree.com/pitan76/
@@ -23,7 +24,7 @@ Discord: https://discord.gg/KrYFxKawQc
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="268" src="https://github-profile-trophy.vercel.app/?username=PTOM76&theme=transparent&hide_border=true&row=4&column=2" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS" /></a>
 
 ![PTOM76's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTOM76&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
