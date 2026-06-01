@@ -15,8 +15,7 @@ Discord: https://discord.gg/KrYFxKawQc
 ぴたぶろぐ: https://wikichree.com/pitablog/
 <br />
 
-自分の酷いコードを晒しています<br />
-主にJavaとPHPが多めでたまにC++を使う程度の全くの専門知識はないプログラミングが趣味の人。
+主にJavaとPHPが多めでたまにC++を使う, プログラミングが趣味の人.
 <br />
 <br />
 <br />
