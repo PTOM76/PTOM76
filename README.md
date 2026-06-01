@@ -10,8 +10,6 @@ Pitan's PukiWiki: https://pukiwiki.pitan76.net/
 <br />
 Pitan Mod Wiki: https://wikichree.com/pitan76/
 <br />
-Discord: https://discord.gg/KrYFxKawQc
-<br />
 ぴたぶろぐ: https://wikichree.com/pitablog/
 <br />
 
