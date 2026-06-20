@@ -4,6 +4,10 @@
 
 My site: https://pitan76.net/
 <br />
+つくったもの: https://www.pitan76.net/works/
+<br />
+つくったmod: https://modparks.pitan76.net/profile/pitan76
+<br />
 Tumblr: https://pitan76.tumblr.com/
 <br />
 Pitan's PukiWiki: https://pukiwiki.pitan76.net/
