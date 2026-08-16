@@ -17,7 +17,7 @@ Pitan Mod Wiki: https://wikichree.com/pitan76/
 ぴたぶろぐ: https://wikichree.com/pitablog/
 <br />
 
-主にJavaとPHPが多めでたまにC++を使う, プログラミングが趣味の人.
+主にJavaとPHPが多めでたまにC++を使う, MOD開発とか, Web開発とか
 <br />
 <br />
 <br />
