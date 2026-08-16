@@ -28,7 +28,7 @@ Pitan Mod Wiki: https://wikichree.com/pitan76/
 </a> -->
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS,XSLT,Makefile,C"><img align="left" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS,XSLT,Makefile,C" /></a>
 
-![PTOM76's GitHub stats](https://github-stats-extended.vercel.app/api?username=PTOM76&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PTOM76&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=PTOM76&show_icons=true&include_all_commits=true&theme=transparent)
 
 <br clear="left" />
 
