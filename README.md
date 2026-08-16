@@ -19,10 +19,6 @@ Pitan Mod Wiki: https://wikichree.com/pitan76/
 
 主にJavaとPHPが多めでたまにC++を使う, MOD開発とか, Web開発とか
 <br />
-<br />
-<br />
-<br />
-<br />
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="268" src="https://github-profile-trophy.vercel.app/?username=PTOM76&theme=transparent&hide_border=true&row=4&column=2" />
 </a> -->
