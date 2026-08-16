@@ -26,7 +26,7 @@ Pitan Mod Wiki: https://wikichree.com/pitan76/
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="268" src="https://github-profile-trophy.vercel.app/?username=PTOM76&theme=transparent&hide_border=true&row=4&column=2" />
 </a> -->
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS,XSLT,Makefile,C"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS,XSLT,Makefile,C" /></a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS,XSLT,Makefile,C"><img align="left" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=PTOM76&theme=transparent&hide_border=true&langs_count=11&hide=HTML,Batchfile,Shell,CSS,XSLT,Makefile,C" /></a>
 
 ![PTOM76's GitHub stats](https://github-stats-extended.vercel.app/api?username=PTOM76&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
